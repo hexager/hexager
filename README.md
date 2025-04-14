@@ -8,7 +8,7 @@ I like learning about Artificial intelligence, and machine learning. As a hobby,
 
 
 ## 🧠 I'm currently learning...
- 1) The prequisite math behind Artificial Intelligence
+ 1) Machine Learning
  2) Website Design
 
 

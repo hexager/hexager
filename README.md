@@ -31,3 +31,4 @@ Aside from that, I like working on 3D animations on Blender and messing around i
 - 🎨 **Creative:** Building a personal website with **Astro**.
 - 🧠 **Learning:** Deep diving into **Mechanistic interpretability**
 ---
+I use <img src="https://img.shields.io/badge/Fedora-51A2DA?style=flat-square&logo=fedora&logoColor=white"> btw
